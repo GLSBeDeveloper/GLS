@@ -1,0 +1,17 @@
+{
+    "name": "SIMTech VRP Webservice API",
+    "version": "1.0.0",
+    "description": "Latest version",
+    "title": "SIMTech VRP API",
+    "url" : "http://localhost/",
+    "sampleUrl":"http://localhost/",
+    "order": [
+        "Authentication",
+        "Problem",
+        "Optimization",
+        "Development"
+    ],
+    "template": {
+        "withGenerator": true
+    }
+}
